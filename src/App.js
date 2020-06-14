@@ -8,8 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi Docker , Are you intigrating with AWS Elastic BeanStack 
-        </p>
+          Hi Docker , Am changed to feature branch        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
